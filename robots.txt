@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /home-2
+Disallow: /lp-purplemetrics
+
+Sitemap: https://www.brandmonitor.com.br/sitemap.xml
